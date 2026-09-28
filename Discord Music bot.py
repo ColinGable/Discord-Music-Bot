@@ -163,5 +163,5 @@ async def queue(ctx):
     )
     await ctx.send("Queue:\n" + msg)
 
-
+#bot key goes here
 bot.run()
